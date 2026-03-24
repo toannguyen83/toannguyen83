@@ -1,22 +1,21 @@
-### Hi :wave:
+# Hi there👋
 
-Passionate about building robust automation frameworks and continuously learning new technologies.
+I’m a **Senior SDET / Quality Architect** based in OKC with a mission to bridge the gap between testing and engineering.
 
-#### Software Engineer and Test Automation 🤖
+### 🛠️ The Mission: Unified Engineering
+I advocate for Unified Engineering, transforming SDETs into full-stack contributors who bake quality into the code from day one.
 
-Senior SDET at [Trimble](https://maps.trimble.com/)
+### ⚡ Obsessed with DevEx
+I believe a test suite should be a tool, not a hurdle.
 
-Daily Tools
-- VS Code / Cursor, Typescript, [Playwright](https://playwright.dev/)
-- Jira, Bitbucket, Bamboo
-- Github
+* **The Playwright Shift:** Architecting fast, reliable E2E and API safety nets that developers actually trust.
+* **Speed as a Feature:** Obsessed with CI/CD velocity—optimizing pipelines to move fast without breaking things.
+* **AI-First Workflow:** Leveraging Cursor to handle the grunt work so I can focus on high-level architecture.
 
-Occasional Tools
-- Python, C#, Node.js
-- Cypress
-- AWS
+### 🧰 My Toolbox
+* **Primary:** Cursor IDE, TypeScript, Playwright, Node.js, and AWS.
+* **When needed:** Python, C#, Angular.
+* **Infrastructure:** GitHub Actions, Docker, Bamboo.
 
-<!---
-toannguyen83/toannguyen83 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
--->
+### 🗯️ Let's Chat
+Contact me if you're interested in my work or want to discuss **Playwright**, **DevOps optimization**, or why **Unified Engineering** is the future.
