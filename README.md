@@ -9,7 +9,7 @@ I advocate for Unified Engineering, transforming SDETs into full-stack contribut
 I believe a test suite should be a tool, not a hurdle.
 
 * **The Playwright Shift:** Architecting fast, reliable E2E and API safety nets that developers actually trust.
-* **Speed as a Feature:** Obsessed with CI/CD velocity—optimizing pipelines to move fast without breaking things.
+* **Speed as a Feature:** Obsessed with CI/CD velocity—optimizing pipelines to [move fast without breaking things](https://xkcd.com/1428/).
 * **AI-First Workflow:** Leveraging Cursor to handle the grunt work so I can focus on high-level architecture.
 
 ### 🧰 My Toolbox
@@ -18,4 +18,4 @@ I believe a test suite should be a tool, not a hurdle.
 * **Infrastructure:** GitHub Actions, Docker, Bamboo.
 
 ### 🗯️ Let's Chat
-Contact me if you're interested in my work or want to discuss **Playwright**, **DevOps optimization**, or why **Unified Engineering** is the future.
+Contact me if you're interested in my work or want to discuss **Playwright**, **DevOps optimization**, or why [standardization is harder than it looks](https://xkcd.com/927/).
