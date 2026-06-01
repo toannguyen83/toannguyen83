@@ -1,6 +1,6 @@
 # Hi there👋
 
-I’m a **Senior SDET** with a mission to bridge the gap between testing and engineering.
+I’m a **Senior Quality Engineer** with a mission to bridge the gap between testing and engineering.
 
 ### 🛠️ The Mission: Unified Engineering
 I advocate for Unified Engineering, transforming SDETs into full-stack contributors who bake quality into the code from day one.
