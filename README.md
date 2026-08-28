@@ -27,9 +27,9 @@ them, and enough CI tuning to
 
 ### 🧰 My Toolbox
 
-**Core:** TypeScript, Node.js, Angular, AWS, Playwright
-**Also:** C#, .NET, Python, SQL
-**Infra:** Docker, GitHub Actions, Bamboo
+- **Core:** TypeScript, Node.js, Angular, AWS, Playwright
+- **Also:** C#, .NET, Python, SQL
+- **Infra:** Docker, GitHub Actions, Bamboo
 
 ### 🗯️ Let's Chat
 
