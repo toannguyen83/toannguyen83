@@ -18,6 +18,9 @@ go from ticket to review-ready PR. The hard part isn't code generation. It's
 the guardrails that keep output inside our conventions so a human reviewer
 doesn't have to catch the same things every time.
 
+When taking a break from AI, I use [VSCodium](https://github.com/vscodium/vscodium)
+for clean IDE coding experiences, no prompts, no AI suggestions. 
+
 ### ⚡ Obsessed with DevEx
 
 A test suite should be a tool, not a hurdle. Lately that's meant keeping a few
