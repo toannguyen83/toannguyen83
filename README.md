@@ -1,6 +1,6 @@
 # Hi there 👋
 
-Senior SDET / Software Engineer with 15+ years building test automation and quality infrastructure with TypeScript, C#, and AWS. At Trimble Maps, I built our Playwright suite from scratch (2,200+ E2E and API specs) and led the team's shift-left into development.
+Senior Software Engineer with 15+ years across software development, CI/CD infrastructure, and test architecture in TypeScript, C#, and AWS. At Trimble Maps, I scaled our Playwright suite from scratch to 2,200+ E2E and API specs and led the team's shift-left into development.
 
 ### 🤖 AI-assisted engineering
 
